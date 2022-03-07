@@ -7,8 +7,12 @@ Installation:
 Credit to thedudeguy for creating Minecraft Rcon with PHP:
 > https://github.com/thedudeguy/PHP-Minecraft-Rcon
 
+Discord:
+> https://discord.gg/CybxnWXcQE
+
 
 OS:
 Windows: No
 Arch Linux: Yes
 Ubuntu: Not Tested but may work.
+
